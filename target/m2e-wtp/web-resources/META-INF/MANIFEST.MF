@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 15
+Implementation-Title: OMS
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.siemens.oms
+Created-By: Maven Integration for Eclipse
+
